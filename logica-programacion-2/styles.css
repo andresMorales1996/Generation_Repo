@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.converter {
+    margin: 1rem;
+}
+
+.converter .temperature{
+    border-radius: 0.3rem;
+    height: 2rem;
+    border: 1px solid gainsboro;
+    padding: 10px;
+
+}
+
+
+
